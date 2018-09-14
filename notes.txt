@@ -1,0 +1,5 @@
+This is a project for a solar website.  Thinking about SEO when starting
+with the meta tags, I thought it would be a good idea to look at the
+meta tags of solar sites that place well.  I thought of doing that by
+hand, but maybe doing it with a program would work and that could be
+a good SEO strategy/service.
